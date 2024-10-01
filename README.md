@@ -24,3 +24,4 @@ A collection of handy Python utility functions.
 - **to_lower** → Converts string to lowercase.
 - **title_case** → Converts string to title case.
 - **word_count** → Counts words in text.
+- **merge_dicts** → Merges two dictionaries.

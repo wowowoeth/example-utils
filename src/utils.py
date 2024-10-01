@@ -86,3 +86,7 @@ def title_case(*args):
 def word_count(*args):
     """Counts words in text."""
     return args
+
+def merge_dicts(*args):
+    """Merges two dictionaries."""
+    return args
