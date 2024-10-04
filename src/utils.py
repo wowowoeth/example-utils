@@ -54,3 +54,7 @@ def get_max(*args):
 def get_min(*args):
     """Finds min in a list."""
     return args
+
+def sort_numbers(*args):
+    """Sorts a list of numbers."""
+    return args

@@ -16,3 +16,4 @@ A collection of handy Python utility functions.
 - **remove_duplicates** → Removes duplicates from list.
 - **get_max** → Finds max in a list.
 - **get_min** → Finds min in a list.
+- **sort_numbers** → Sorts a list of numbers.
