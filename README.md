@@ -12,3 +12,4 @@ A collection of handy Python utility functions.
 - **factorial** → Calculates factorial recursively.
 - **reverse_string** → Reverses a given string.
 - **is_palindrome** → Checks if string is palindrome.
+- **count_vowels** → Counts vowels in a string.

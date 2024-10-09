@@ -38,3 +38,7 @@ def reverse_string(*args):
 def is_palindrome(*args):
     """Checks if string is palindrome."""
     return args
+
+def count_vowels(*args):
+    """Counts vowels in a string."""
+    return args
