@@ -22,3 +22,4 @@ A collection of handy Python utility functions.
 - **cube_numbers** → Cubes numbers in list.
 - **to_upper** → Converts string to uppercase.
 - **to_lower** → Converts string to lowercase.
+- **title_case** → Converts string to title case.

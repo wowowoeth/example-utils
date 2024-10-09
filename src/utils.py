@@ -78,3 +78,7 @@ def to_upper(*args):
 def to_lower(*args):
     """Converts string to lowercase."""
     return args
+
+def title_case(*args):
+    """Converts string to title case."""
+    return args
