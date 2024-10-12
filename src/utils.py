@@ -26,3 +26,7 @@ def is_prime(*args):
     for i in range(2, int(n**0.5) + 1):
         if n % i == 0: return False
     return True
+
+def factorial(*args):
+    """Calculates factorial recursively."""
+    return 1 if args[0]==0 else args[0]*factorial(args[0]-1)

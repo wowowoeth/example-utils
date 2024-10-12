@@ -9,3 +9,4 @@ A collection of handy Python utility functions.
 - **multiply_numbers** → Multiplies two numbers.
 - **divide_numbers** → Divides two numbers safely.
 - **is_prime** → Checks if a number is prime.
+- **factorial** → Calculates factorial recursively.
