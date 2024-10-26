@@ -8,3 +8,4 @@ A collection of handy Python utility functions.
 - **subtract_numbers** → Subtracts second number from first.
 - **multiply_numbers** → Multiplies two numbers.
 - **divide_numbers** → Divides two numbers safely.
+- **is_prime** → Checks if a number is prime.

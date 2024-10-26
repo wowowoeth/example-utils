@@ -18,3 +18,11 @@ def multiply_numbers(*args):
 def divide_numbers(*args):
     """Divides two numbers safely."""
     return args[0] / args[1] if args[1] != 0 else None
+
+def is_prime(*args):
+    """Checks if a number is prime."""
+    n = args[0]
+    if n < 2: return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0: return False
+    return True
