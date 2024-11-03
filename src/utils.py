@@ -94,3 +94,7 @@ def merge_dicts(*args):
 def unique_elements(*args):
     """Returns unique elements from list."""
     return args
+
+def fibonacci(*args):
+    """Generates Fibonacci sequence."""
+    return args

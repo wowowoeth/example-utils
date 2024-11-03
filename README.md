@@ -26,3 +26,4 @@ A collection of handy Python utility functions.
 - **word_count** → Counts words in text.
 - **merge_dicts** → Merges two dictionaries.
 - **unique_elements** → Returns unique elements from list.
+- **fibonacci** → Generates Fibonacci sequence.
