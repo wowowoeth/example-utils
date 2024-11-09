@@ -11,3 +11,4 @@ A collection of handy Python utility functions.
 - **is_prime** → Checks if a number is prime.
 - **factorial** → Calculates factorial recursively.
 - **reverse_string** → Reverses a given string.
+- **is_palindrome** → Checks if string is palindrome.

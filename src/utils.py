@@ -34,3 +34,7 @@ def factorial(*args):
 def reverse_string(*args):
     """Reverses a given string."""
     return args[0][::-1]
+
+def is_palindrome(*args):
+    """Checks if string is palindrome."""
+    return args
