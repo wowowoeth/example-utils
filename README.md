@@ -19,3 +19,4 @@ A collection of handy Python utility functions.
 - **sort_numbers** → Sorts a list of numbers.
 - **average** → Calculates average of list.
 - **square_numbers** → Squares numbers in list.
+- **cube_numbers** → Cubes numbers in list.

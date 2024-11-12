@@ -66,3 +66,7 @@ def average(*args):
 def square_numbers(*args):
     """Squares numbers in list."""
     return args
+
+def cube_numbers(*args):
+    """Cubes numbers in list."""
+    return args
