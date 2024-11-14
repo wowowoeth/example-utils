@@ -50,3 +50,7 @@ def remove_duplicates(*args):
 def get_max(*args):
     """Finds max in a list."""
     return args
+
+def get_min(*args):
+    """Finds min in a list."""
+    return args

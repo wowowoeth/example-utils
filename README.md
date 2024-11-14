@@ -15,3 +15,4 @@ A collection of handy Python utility functions.
 - **count_vowels** → Counts vowels in a string.
 - **remove_duplicates** → Removes duplicates from list.
 - **get_max** → Finds max in a list.
+- **get_min** → Finds min in a list.
