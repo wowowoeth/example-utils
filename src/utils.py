@@ -74,3 +74,7 @@ def cube_numbers(*args):
 def to_upper(*args):
     """Converts string to uppercase."""
     return args
+
+def to_lower(*args):
+    """Converts string to lowercase."""
+    return args
