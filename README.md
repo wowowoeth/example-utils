@@ -10,3 +10,4 @@ A collection of handy Python utility functions.
 - **divide_numbers** → Divides two numbers safely.
 - **is_prime** → Checks if a number is prime.
 - **factorial** → Calculates factorial recursively.
+- **reverse_string** → Reverses a given string.
