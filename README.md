@@ -28,3 +28,4 @@ A collection of handy Python utility functions.
 - **unique_elements** → Returns unique elements from list.
 - **fibonacci** → Generates Fibonacci sequence.
 - **find_common** → Finds common elements between two lists.
+- **greet_user** → Prints greeting message for user.

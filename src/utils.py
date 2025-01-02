@@ -102,3 +102,7 @@ def fibonacci(*args):
 def find_common(*args):
     """Finds common elements between two lists."""
     return args
+
+def greet_user(*args):
+    """Prints greeting message for user."""
+    return args
