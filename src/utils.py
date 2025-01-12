@@ -90,3 +90,7 @@ def word_count(*args):
 def merge_dicts(*args):
     """Merges two dictionaries."""
     return args
+
+def unique_elements(*args):
+    """Returns unique elements from list."""
+    return args

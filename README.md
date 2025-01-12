@@ -25,3 +25,4 @@ A collection of handy Python utility functions.
 - **title_case** → Converts string to title case.
 - **word_count** → Counts words in text.
 - **merge_dicts** → Merges two dictionaries.
+- **unique_elements** → Returns unique elements from list.
