@@ -82,3 +82,7 @@ def to_lower(*args):
 def title_case(*args):
     """Converts string to title case."""
     return args
+
+def word_count(*args):
+    """Counts words in text."""
+    return args
