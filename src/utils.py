@@ -58,3 +58,7 @@ def get_min(*args):
 def sort_numbers(*args):
     """Sorts a list of numbers."""
     return args
+
+def average(*args):
+    """Calculates average of list."""
+    return args

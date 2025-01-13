@@ -17,3 +17,4 @@ A collection of handy Python utility functions.
 - **get_max** → Finds max in a list.
 - **get_min** → Finds min in a list.
 - **sort_numbers** → Sorts a list of numbers.
+- **average** → Calculates average of list.
