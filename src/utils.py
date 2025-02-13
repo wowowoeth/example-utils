@@ -70,3 +70,7 @@ def square_numbers(*args):
 def cube_numbers(*args):
     """Cubes numbers in list."""
     return args
+
+def to_upper(*args):
+    """Converts string to uppercase."""
+    return args

@@ -20,3 +20,4 @@ A collection of handy Python utility functions.
 - **average** → Calculates average of list.
 - **square_numbers** → Squares numbers in list.
 - **cube_numbers** → Cubes numbers in list.
+- **to_upper** → Converts string to uppercase.
