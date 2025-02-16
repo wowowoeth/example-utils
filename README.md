@@ -14,3 +14,4 @@ A collection of handy Python utility functions.
 - **is_palindrome** → Checks if string is palindrome.
 - **count_vowels** → Counts vowels in a string.
 - **remove_duplicates** → Removes duplicates from list.
+- **get_max** → Finds max in a list.

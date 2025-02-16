@@ -46,3 +46,7 @@ def count_vowels(*args):
 def remove_duplicates(*args):
     """Removes duplicates from list."""
     return args
+
+def get_max(*args):
+    """Finds max in a list."""
+    return args
