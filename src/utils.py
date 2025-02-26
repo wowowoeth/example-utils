@@ -98,3 +98,7 @@ def unique_elements(*args):
 def fibonacci(*args):
     """Generates Fibonacci sequence."""
     return args
+
+def find_common(*args):
+    """Finds common elements between two lists."""
+    return args
