@@ -18,3 +18,4 @@ A collection of handy Python utility functions.
 - **get_min** → Finds min in a list.
 - **sort_numbers** → Sorts a list of numbers.
 - **average** → Calculates average of list.
+- **square_numbers** → Squares numbers in list.

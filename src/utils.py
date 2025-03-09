@@ -62,3 +62,7 @@ def sort_numbers(*args):
 def average(*args):
     """Calculates average of list."""
     return args
+
+def square_numbers(*args):
+    """Squares numbers in list."""
+    return args
