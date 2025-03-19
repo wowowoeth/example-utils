@@ -14,3 +14,7 @@ def subtract_numbers(*args):
 def multiply_numbers(*args):
     """Multiplies two numbers."""
     return args[0] * args[1]
+
+def divide_numbers(*args):
+    """Divides two numbers safely."""
+    return args[0] / args[1] if args[1] != 0 else None

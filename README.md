@@ -7,3 +7,4 @@ A collection of handy Python utility functions.
 - **add_numbers** → Adds two numbers and returns the sum.
 - **subtract_numbers** → Subtracts second number from first.
 - **multiply_numbers** → Multiplies two numbers.
+- **divide_numbers** → Divides two numbers safely.
