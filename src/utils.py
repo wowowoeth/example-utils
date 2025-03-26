@@ -10,3 +10,7 @@ def add_numbers(*args):
 def subtract_numbers(*args):
     """Subtracts second number from first."""
     return args[0] - args[1]
+
+def multiply_numbers(*args):
+    """Multiplies two numbers."""
+    return args[0] * args[1]
