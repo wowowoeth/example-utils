@@ -42,3 +42,7 @@ def is_palindrome(*args):
 def count_vowels(*args):
     """Counts vowels in a string."""
     return args
+
+def remove_duplicates(*args):
+    """Removes duplicates from list."""
+    return args

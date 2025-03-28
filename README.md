@@ -13,3 +13,4 @@ A collection of handy Python utility functions.
 - **reverse_string** → Reverses a given string.
 - **is_palindrome** → Checks if string is palindrome.
 - **count_vowels** → Counts vowels in a string.
+- **remove_duplicates** → Removes duplicates from list.
